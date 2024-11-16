@@ -20,11 +20,11 @@ public class Cheers {
                         case "R":
                         case "S":
                         case "X":
-                                System.out.println("Give Me an "+letters[i] + ": " + letters[i] + "!");
+                                System.out.println("Give me an "+letters[i] + ": " + letters[i] + "!");
                                 break;
                 
                         default:
-                                System.out.println("Give Me a  "+letters[i] + ": " + letters[i] + "!");
+                                System.out.println("Give me a  "+letters[i] + ": " + letters[i] + "!");
                                 break;
                 }
             }
