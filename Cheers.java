@@ -24,7 +24,7 @@ public class Cheers {
                                 break;
                 
                         default:
-                                System.out.println("Give Me a "+letters[i] + "  :" + letters[i] + "!");
+                                System.out.println("Give Me a "+letters[i] + ": " + letters[i] + "!");
                                 break;
                 }
             }
