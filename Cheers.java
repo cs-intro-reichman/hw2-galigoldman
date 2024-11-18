@@ -43,7 +43,7 @@ public class Cheers {
             System.out.println("What does that spell?");
             for(i=0;i<times;i++)
             {
-                System.out.println(str+"!!!");
+                System.out.println(str.toUpperCase()+"!!!");
             }
         }
 }
